@@ -100,7 +100,7 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 .post-meta { font-size: 14px; color: #828282; }
 
-.post-link { display: block; font-size: 24px; }
+.post-link { display: block; font-size: 24px; text-align: center; }
 
 /** Posts */
 .post-header { margin-bottom: 30px; }
