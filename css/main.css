@@ -179,8 +179,8 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 .highlight .vi { color: #008080; }
 .highlight .il { color: #099; }
 
-@font-face { font-family: SilkScreen; src: url("/naruto-js/assets/fonts/slkscr.ttf"); }
-@font-face { font-family: NarutoStyle; src: url("/naruto-js/assets/fonts/njnaruto.ttf"); }
+@font-face { font-family: SilkScreen; src: url("Fonts/slkscr.ttf"); }
+@font-face { font-family: NarutoStyle; src: url("Fonts/njnaruto.ttf"); }
 *[hidden] { display: none; }
 
 p, li { font-family: SilkScreen; }
